@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {
+      "id": 3,
+      "name": "3",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false
+    },
+    {
+      "id": 4,
+      "name": "Sinn",
+      "occupation": "Lives",
+      "weapon": "Crabby",
+      "cartoon": true
+    },
+    {
+      "name": "A",
+      "occupation": "Aa",
+      "weapon": "Aa",
+      "cartoon": true,
+      "id": 5
+    },
+    {
+      "name": "A",
+      "occupation": "Aa",
+      "weapon": "Aa",
+      "cartoon": true,
+      "id": 6
+    }
+  ]
+}
